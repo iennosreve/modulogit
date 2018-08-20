@@ -1,3 +1,3 @@
 
 
-parabens chgegamos ate aqui!
+parabens chegamos ate aqui!

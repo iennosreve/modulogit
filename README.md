@@ -1,3 +1,1 @@
-	Meu primeiro sistema no Git
-
-	Alteraçao no reademe para descrever melhor o sistema
+	Meu primeiro sistema no GIT HUB
